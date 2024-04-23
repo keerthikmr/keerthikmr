@@ -1,3 +1,7 @@
+### 👋 Welcome!
+I'm Keerthi Kumar, a software engineer with great ambitions!
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
