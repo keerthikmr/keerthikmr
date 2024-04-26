@@ -41,7 +41,7 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 
 [![](https://img.shields.io/badge/-🛒%20Shopping%20Assistant-000)](https://github.com/keerthikmr/Voice-assisted-e-commerce-shopping)
 [![](https://img.shields.io/badge/-🎥%20Video%20Compression-000)](https://github.com/keerthikmr/video-compression)
-[![](https://img.shields.io/badge/-❔%20Summarizer-000)](https://github.com/keerthikmr/Quiz-App)
+[![](https://img.shields.io/badge/-❔%20Quiz%20App-000)](https://github.com/keerthikmr/Quiz-App)
 [![](https://img.shields.io/badge/-🍔%20Kitchen%20Assistant-000)](https://github.com/keerthikmr/acm-hackathon)
 [![](https://img.shields.io/badge/-🦕%20DinoStat-000)](https://github.com/chingu-voyages/v48-tier2-team-11)
 [![](https://img.shields.io/badge/-✔%20OnTrack-000)](https://github.com/chingu-voyages/v47-tier1-team-02)
