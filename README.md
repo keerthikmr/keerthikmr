@@ -51,5 +51,7 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 [![](https://img.shields.io/badge/-📷%20Arduino%20Camera%20Control-000)](https://github.com/keerthikmr/Arduino-camera-control)
 
 ### Contact
-
-keerthikumar.m10@gmail.com
+[![](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:keerthikumar.m10@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/keerthi-kumar10)
+[![](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode)](https://leetcode.com/u/user3178iC/)
+[![](https://img.shields.io/badge/-CodeWars-000?&logo=codewars)](https://www.codewars.com/users/Thunder-11)
