@@ -20,6 +20,8 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![DotNet](https://img.shields.io/badge/-DotNet-000?&logo=dotnet)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
