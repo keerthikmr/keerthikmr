@@ -50,7 +50,12 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 [![](https://img.shields.io/badge/-✔%20OnTrack-000)](https://github.com/chingu-voyages/v47-tier1-team-02)
 [![](https://img.shields.io/badge/-📷%20Arduino%20Camera%20Control-000)](https://github.com/keerthikmr/Arduino-camera-control)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthikmr\&layout=compact\&theme=radical) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthikmr\&show_icons=true\&theme=radical\&rank_icon=github\&hide=issues,stars)
+
 ### Contact
+
 [![](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:keerthikumar.m10@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/keerthi-kumar10)
 [![](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode)](https://leetcode.com/u/user3178iC/)
