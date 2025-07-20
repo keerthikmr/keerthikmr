@@ -1,9 +1,12 @@
 ### 👋 Welcome!!
-I'm Keerthi Kumar, a software engineer with great ambitions!
+I'm Keerthi Kumar, a software engineer with great ambitions! 
 
+### For rtCamp!!
+If you're from rtCamp, all my WordPress repositories are private on GitHub, and the live sites display only customer-facing features. I’d be happy to provide a deeper technical walkthrough or demonstrate the full scope of my work if required.
 
 ### Languages
 
+![Python](https://img.shields.io/badge/-PHP-000?&logo=Php)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -25,7 +28,6 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -38,6 +40,10 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+
 
 ### Projects
 
@@ -50,7 +56,9 @@ I'm Keerthi Kumar, a software engineer with great ambitions!
 [![](https://img.shields.io/badge/-✔%20OnTrack-000)](https://github.com/chingu-voyages/v47-tier1-team-02)
 [![](https://img.shields.io/badge/-📷%20Arduino%20Camera%20Control-000)](https://github.com/keerthikmr/Arduino-camera-control)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthikmr\&show_icons=true\&theme=radical\&rank_icon=github\&hide=issues,stars)
+[![Top Languagess](https://github-readme-stat-chi-lac.vercel.app/api/top-langs/?username=keerthikmr&layout=donut\&theme=radical)](https://github.com/keerthikmr/github-readme-stats) 
+&nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthikmr\&show_icons=true\&theme=radical\&rank_icon=github\&hide=stars)
 
 ### Contact
 
