@@ -56,9 +56,9 @@ If you're from rtCamp, all my WordPress repositories are private on GitHub, and 
 [![](https://img.shields.io/badge/-✔%20OnTrack-000)](https://github.com/chingu-voyages/v47-tier1-team-02)
 [![](https://img.shields.io/badge/-📷%20Arduino%20Camera%20Control-000)](https://github.com/keerthikmr/Arduino-camera-control)
 
-[![Top Languagess](https://github-readme-stat-chi-lac.vercel.app/api/top-langs/?username=keerthikmr&layout=donut\&theme=radical)](https://github.com/keerthikmr/github-readme-stats) 
-&nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthikmr\&show_icons=true\&theme=radical\&rank_icon=github\&hide=stars)
+[![GitHub Streak](https://streak-stats.demolab.com?user=keerthikmr&theme=radical&card_height=215)](https://git.io/streak-stats)&nbsp;
+[![Top Languagess](https://github-readme-stat-chi-lac.vercel.app/api/top-langs/?username=keerthikmr&layout=donut\&theme=radical)](https://github.com/keerthikmr/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthikmr\&show_icons=true\&theme=radical\&card_width=855px\&rank_icon=github\&hide=stars)
 
 ### Contact
 
