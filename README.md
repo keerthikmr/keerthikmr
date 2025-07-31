@@ -1,9 +1,6 @@
 ### 👋 Welcome!!
 I'm Keerthi Kumar, a software engineer with great ambitions! 
 
-### For rtCamp!!
-If you're from rtCamp, all my WordPress repositories are private on GitHub, and the live sites display only customer-facing features. I’d be happy to provide a deeper technical walkthrough or demonstrate the full scope of my work if required.
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-PHP-000?&logo=Php)
